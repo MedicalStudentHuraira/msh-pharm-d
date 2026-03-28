@@ -23,6 +23,6 @@
 
 ## Contribution Guidelines
 
-> This repository is for educational purposes only.
-
 ![PULL REQUEST](https://img.shields.io/badge/PULL_REQUEST-Only_updates_will_be_accepted-green?style=for-the-badge)
+
+> This repository is for educational purposes only.
