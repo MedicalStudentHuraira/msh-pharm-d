@@ -9,6 +9,13 @@
       4 Physiology-I : Allied/Interdisciplinary
       5 Functional English : General Education
 
+    semister: 2
+      2 Organic Chemistry - II : Core
+      3 Biochemistry - II : Core
+      4 Anatomy & Histology : Allied/Interdisciplinary
+      5 Physiology-II : Allied/Interdisciplinary
+      6 Islamic Studies : General Education
+
     Year 2: Principles of Pharmacy
 
         Pharmaceutics (Physical Pharmacy), Pharmacognosy, and Microbiology.
