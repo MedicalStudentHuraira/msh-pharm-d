@@ -35,6 +35,7 @@
               6 Fehm-e-Quran I : General Education 
 
     >>> Year 3: Mechanisms & Action
+    
             semister: 5
               1 Pharmacognosy (Applied) : Core
               2 Pharmaceutical Analysis-I : Core
@@ -61,6 +62,15 @@
               4 Pharmaceutical Quality Management System : Core
               5 Expository Writing : General Education
               6 Entrepreneurship : General Education
+              
+            semister: 8
+              1 Industrial Pharmacy - II 3+1 Major: Core
+              2 Biopharmaceutics and Pharmacokinetics - II : Core
+              3 Clinical Pharmacy-II : Core
+              4 Civics & Community Engagement (Fulfill requirement of Pharmacy Practice-III) : General Education
+              5 Pharmaceutical Quality Control : Core
+              6 Pharmaceutical Management and Marketing : General Education (Social Sciences)
+
 
     Year 5: Advanced Practice
 
