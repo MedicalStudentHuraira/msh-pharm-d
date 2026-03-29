@@ -1,4 +1,4 @@
-[![Pharm-D 5 Year](https://img.shields.io/badge/Pharm--D-5_Year_Curriculum-green?style=for-the-badge)](YOUR_LINK_HERE)
+[![Pharm-D 5 Year](https://img.shields.io/badge/Pharm--D-5_Year_Curriculum-darkgreen?style=for-the-badge)](YOUR_LINK_HERE)
 ## Repository Structure
 
     Year 1: Foundations
@@ -23,6 +23,6 @@
 
 ## Contribution Guidelines
 
-![PULL REQUEST](https://img.shields.io/badge/PULL_REQUEST-Only_updates_will_be_accepted-green?style=for-the-badge)
+![PULL REQUEST](https://img.shields.io/badge/PULL_REQUEST-Only_updates_will_be_accepted-darkgreen?style=for-the-badge)
 
 > This repository is for educational purposes only.
