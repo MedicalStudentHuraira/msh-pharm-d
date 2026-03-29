@@ -44,6 +44,14 @@
               6 Ideology & Constitution of Pakistan : General Education
               7 Fehm-e-Quran II : General Education
 
+            semister: 4
+              1 Pharmacognosy (Advanced) : Core
+              2 Dispensing, Social & Administrative Pharmacy : Core
+              3 Pharmaceutical Analysis-II : Core
+              4 Pharmacology and Therapeutics-IV 3: Core
+              5 Applications of ICT (Especial focuson Pharmacy) : General Education
+              6 Quantitative Reasoning-II : General Education (Contents of Biostatics added)
+
     Year 4: Clinical Specialization
 
         Clinical Pharmacy, Hospital Pharmacy, and Advanced Pharmacology.
