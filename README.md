@@ -54,7 +54,13 @@
 
     Year 4: Clinical Specialization
 
-        Clinical Pharmacy, Hospital Pharmacy, and Advanced Pharmacology.
+            semister: 7
+              1 Industrial Pharmacy - I : Core
+              2 Biopharmaceutics and Pharmacokinetics - I : Core
+              3 Clinical Pharmacy-I : Core
+              4 Pharmaceutical Quality Management System : Core
+              5 Expository Writing : General Education
+              6 Entrepreneurship : General Education
 
     Year 5: Advanced Practice
 
