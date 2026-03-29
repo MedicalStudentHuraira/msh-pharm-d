@@ -17,9 +17,14 @@
               5 Physiology-II : Allied/Interdisciplinary
               6 Islamic Studies : General Education
 
-    Year 2: Principles of Pharmacy
+    >>> Year 2: Principles of Pharmacy
 
-        Pharmaceutics (Physical Pharmacy), Pharmacognosy, and Microbiology.
+            semister: 3
+              1 Drug Delivery Systems and Formulation Science - I : Core
+              2 Pharmacology and Therapeutics-I : Core
+              3 Pharmacognosy - (Basic I) 3: Core
+              4 Pathology : Allied/Interdisciplinary
+              5 Basic Pharmaceutical Microbiology : General Education(Natural Sciences)
 
     Year 3: Mechanisms & Action
 
