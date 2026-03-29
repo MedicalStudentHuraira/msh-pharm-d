@@ -34,9 +34,15 @@
               5 Pakistan Studies : General Education
               6 Fehm-e-Quran I : General Education 
 
-    Year 3: Mechanisms & Action
-
-        Pharmacology and Therapeutics I, Pathology, and Dispensing Pharmacy.
+    >>> Year 3: Mechanisms & Action
+            semister: 4
+              1 Pharmacognosy (Applied) : Core
+              2 Pharmaceutical Analysis-I : Core
+              3 Pharmacology and Therapeutics-III : Core
+              4 Hospital and Community Pharmacy : Core
+              5 Quantitative Reasoning – I : General Education
+              6 Ideology & Constitution of Pakistan : General Education
+              7 Fehm-e-Quran II : General Education
 
     Year 4: Clinical Specialization
 
