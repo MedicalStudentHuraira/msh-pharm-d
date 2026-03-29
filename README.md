@@ -1,8 +1,12 @@
 [![Pharm-D 5 Year](https://img.shields.io/badge/Pharm--D-5_Year_Curriculum-darkgreen?style=for-the-badge)](YOUR_LINK_HERE)
 
     Year 1: Foundations
-
-        Organic & Inorganic Chemistry, Physiology, and Anatomy.
+    
+     1 Physical Pharmacy - I : Core
+     2 Organic Chemistry - I : Core
+     3 Biochemistry - I : Core
+     4 Physiology-I : Allied/Interdisciplinary
+     5 Functional English : General Education
 
     Year 2: Principles of Pharmacy
 
