@@ -35,7 +35,7 @@
               6 Fehm-e-Quran I : General Education 
 
     >>> Year 3: Mechanisms & Action
-            semister: 4
+            semister: 5
               1 Pharmacognosy (Applied) : Core
               2 Pharmaceutical Analysis-I : Core
               3 Pharmacology and Therapeutics-III : Core
@@ -44,7 +44,7 @@
               6 Ideology & Constitution of Pakistan : General Education
               7 Fehm-e-Quran II : General Education
 
-            semister: 4
+            semister: 6
               1 Pharmacognosy (Advanced) : Core
               2 Dispensing, Social & Administrative Pharmacy : Core
               3 Pharmaceutical Analysis-II : Core
