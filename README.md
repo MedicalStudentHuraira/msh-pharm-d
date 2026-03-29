@@ -26,6 +26,14 @@
               4 Pathology : Allied/Interdisciplinary
               5 Basic Pharmaceutical Microbiology : General Education(Natural Sciences)
 
+            semister: 4
+              1 Drug Delivery Systems and Formulation Science - II : Core
+              2 Applied Pharmaceutical Microbiology and Immunology : Core
+              3 Artificial Intelligence in Pharmacology and Therapeutics (Pharmacology and Therapeutics-II) : Core
+              4 Pharmacognosy (Basic - II) : Core
+              5 Pakistan Studies : General Education
+              6 Fehm-e-Quran I : General Education 
+
     Year 3: Mechanisms & Action
 
         Pharmacology and Therapeutics I, Pathology, and Dispensing Pharmacy.
