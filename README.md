@@ -2,19 +2,20 @@
 
     Year 1: Foundations
     
-    semister: 1
-      1 Physical Pharmacy - I : Core
-      2 Organic Chemistry - I : Core
-      3 Biochemistry - I : Core
-      4 Physiology-I : Allied/Interdisciplinary
-      5 Functional English : General Education
+     semister: 1
+       1 Physical Pharmacy - I : Core
+       2 Organic Chemistry - I : Core
+       3 Biochemistry - I : Core
+       4 Physiology-I : Allied/Interdisciplinary
+       5 Functional English : General Education
 
-    semister: 2
-      2 Organic Chemistry - II : Core
-      3 Biochemistry - II : Core
-      4 Anatomy & Histology : Allied/Interdisciplinary
-      5 Physiology-II : Allied/Interdisciplinary
-      6 Islamic Studies : General Education
+     semister: 2
+      1 Physical Pharmacy - II : Core
+       2 Organic Chemistry - II : Core
+       3 Biochemistry - II : Core
+       4 Anatomy & Histology : Allied/Interdisciplinary
+       5 Physiology-II : Allied/Interdisciplinary
+       6 Islamic Studies : General Education
 
     Year 2: Principles of Pharmacy
 
