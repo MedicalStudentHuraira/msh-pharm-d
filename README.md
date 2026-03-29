@@ -53,7 +53,7 @@
               5 Applications of ICT (Especial focuson Pharmacy) : General Education
               6 Quantitative Reasoning-II : General Education (Contents of Biostatics added)
 
-    Year 4: Clinical Specialization
+    >>> Year 4: Clinical Specialization
 
             semister: 7
               1 Industrial Pharmacy - I : Core
@@ -72,9 +72,14 @@
               6 Pharmaceutical Management and Marketing : General Education (Social Sciences)
 
 
-    Year 5: Advanced Practice
+    >>> Year 5: Advanced Practice
 
-        Pharmaceutical Technology, Forensic Pharmacy, and Clinical Clerkships.
+            semister: 9
+              1 Pharmaceutical Technology - I : Core
+              2 Pharmaceutical Regulatory Science-I : Core
+              3 Medicinal Chemistry-I 3+1 : Core
+              4 Advanced Clinical Pharmacy-I : Core
+              5 Clinical Pharmacology : Core
 
 ## Contribution Guidelines
 
