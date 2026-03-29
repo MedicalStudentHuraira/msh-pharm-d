@@ -80,6 +80,14 @@
               3 Medicinal Chemistry-I 3+1 : Core
               4 Advanced Clinical Pharmacy-I : Core
               5 Clinical Pharmacology : Core
+              
+            semister: 9
+              1 Pharmaceutical Technology - II : Core
+              2 Pharmaceutical Regulatory Science-II : Core
+              3 Medicinal Chemistry-II 3: Core
+              4 Advanced Clinical Pharmacy-II : Core
+              5 Bioethics (Arts & Humanities Category) : General Education
+              6 Capstone Project : Capstone Project
 
 ## Contribution Guidelines
 
