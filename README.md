@@ -1,5 +1,4 @@
 [![Pharm-D 5 Year](https://img.shields.io/badge/Pharm--D-5_Year_Curriculum-darkgreen?style=for-the-badge)](YOUR_LINK_HERE)
-## Repository Structure
 
     Year 1: Foundations
 
