@@ -2,7 +2,7 @@
 
     Year 1: Foundations
     
-    semister 1st
+    semister: 1
       1 Physical Pharmacy - I : Core
       2 Organic Chemistry - I : Core
       3 Biochemistry - I : Core
